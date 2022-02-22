@@ -1,4 +1,4 @@
-# Changes where css properties trigger recomposition, repaint, or relayout
+# CSS properties which trigger composition, paint, or layout
 
 ## Composite
 
