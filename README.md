@@ -1,4 +1,4 @@
-# CSS properties which trigger composition, paint, or layout
+# CSS properties that trigger composition, paint, or layout
 
 ## Composite
 
